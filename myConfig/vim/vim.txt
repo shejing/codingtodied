@@ -1,0 +1,5 @@
+在android工程根目录执行脚本并重定位到ctags.txt文件中
+. ./cctagsfiles.sh > ctags.txt
+在.bashrc中加入
+alias cctags="ctags -L ctags.txt --c++-kinds=+px --fields=+iaKSz --extra=+q;cscope -bkq -i ctags.txt"
+在工程根目录执行cctags命令，就会生成如下图数据库数据库，这样我们就可以在根目录用vi命令打开code进行阅读

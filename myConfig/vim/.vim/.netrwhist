@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/opt2/xiaoxixiang/mtkwork/75V2/ALPS.ICS.MP.V2_W_20120504/frameworks/base/media/libeffects/bbk'
+let g:netrw_dirhist_2='/opt2/xiaoxixiang/Qcom/8255/gingerbread_house-M7630AABBQMLZA414006/system/core'
+let g:netrw_dirhist_3='/opt2/xiaoxixiang/mtkwork/15/ALPS.ICS.MP.V2.2_TD_20120521/mediatek/custom/common/kernel/lcm/eR61408_mipi'
+let g:netrw_dirhist_4='/opt2/xiaoxixiang/mtkwork/V2_75/ALPS.ICS.MP.V2_W_20120504/build/tools/fs_config'
+let g:netrw_dirhist_5='/opt/litao/1610/8_0_NEW/out-PD1610_8_0MA/target/product/msm8996/obj_arm/SHARED_LIBRARIES/camera.msm8996_intermediates'
+let g:netrw_dirhist_6='/opt/litao/code/PD1924/vendor/qcom/proprietary/chi-cdk'
+let g:netrw_dirhist_7='/opt/litao/code/PD1924/vendor/qcom/proprietary/chi-cdk/vendor'
