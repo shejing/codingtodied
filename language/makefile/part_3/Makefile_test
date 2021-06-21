@@ -1,0 +1,16 @@
+A=123
+B=$(A)
+A=456
+
+C:=123
+D:=$(C)
+C:=456
+
+.PHONY:all
+
+all:
+	echo "$(CC)"
+	echo "$(AS)"
+	echo "$(MAKE)"
+	echo "$(B)"
+	echo "$(D)"
